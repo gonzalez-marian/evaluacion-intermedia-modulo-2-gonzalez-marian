@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.title {
+    font-size: 50px;
+}
+
+.form__all {
+    display: flex;
+    flex-direction: column;
+}
+.form__label {
+    font-size: 28px;
+}
+.form__text {
+    width: 40vw;
+}
+
+.form__button{
+    background: aqua;
+    border: 0;
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+    width: 110px;
+}
